@@ -52,8 +52,8 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 12th September  | **First Half Recap Lab**   | [Lab] | [Sol]  | [Video] | 
 | 17th September  | **Midterm Prep 1 (บนกระดาษ)**   | [Lab] | [Sol]  | [Video] | 
 | 19th September  | **Midterm Prep 2 (บนกระดาษ)**   | [Lab] | [Sol]  | [Video] | 
-| 24th September  | **Midterm Week**   |  |   |  | 
-| 26th September  | **Midterm Week**   |  |   |  | 
+| 24th September  | Midterm Week   |  |   |  | 
+| 26th September  | Midterm Week   |  |   |  | 
 | 1st October  | Midterm Discussion   |  |   |  | 
 | 3rd October  | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)         |        |   | [Video] | 
 | 8th October  | **List 2 Lab**   | [Lab]  | [Sol]   | [Video] |
