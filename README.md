@@ -38,7 +38,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 
 |   Date  |  Topic  |  Lab  |  Solution | Video |
 | ------- | ------- |  --------  | ----- | -------- |
-| 6th August  | Introduction + [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb) |  | | [Video]  | 
+| 6th August  | [Introduction](https://docs.google.com/presentation/d/1NTo9DB1zQFDuQVFixkBg8eE9_vTqCC6VBGYCoYS5l0c/edit?usp=sharing) + [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb) |  | | [Video]  | 
 | 8th August  | [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb)   |  |  | [Video] | 
 | 13th August  | **Input/Output/Process Lab 1**  | [Lab] | [Sol]  | [Video] | 
 | 15th August  | [Decision Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb)   |   |    | [Video] | 
