@@ -38,8 +38,33 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 
 |   Date  |  Topic  |  Lab  |  Solution | Video |
 | ------- | ------- |  --------  | ----- | -------- |
-| 6th August  |  |  |  |  | 
-| 8th August  |  |  |  |  | 
+| 6th August  | Introduction + [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb) |  | | [Video]  | 
+| 8th August  | **Input/Output/Process Lab 1**  | [Lab] | [Sol]  | [Video] | 
+
+| 13th August  | [Decision Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb)          |       |        | [Video] | 
+| 15th August  | **Decision Structures Lab 1**   | [Lab] | [Sol]  | [Video] | 
+
+| 20th August  | **Decision Structures Lab 2**   | [Lab] | [Sol]  | [Video] | 
+| 22th August  | [Repeition Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_4_Repitition_Structures.ipynb)   |   |  | [Video] | 
+
+| 27th August  | **Repetition Lab 1**   | [Lab] | [Sol]  | [Video] | 
+| 29th August  | [List 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb) |   |   | [Video] | 
+
+| 3rd September  | **Repetition Lab 2**   | [Lab] | [Sol]  | [Video] | 
+| 5th September  | 	[First half Recap]    |       |        | [Video] | 
+
+| 10th September  | **First Half Recap Lab 1**   | [Lab] | [Sol]  | [Video] | 
+| 12th September  | **First Half Recap Lab 2**   | [Lab] | [Sol]  | [Video] | 
+
+| 17th September  | **Midterm Prep 1 (บนกระดาษ)**   | [Lab] | [Sol]  | [Video] | 
+| 19th September  | **Midterm Prep 2 (บนกระดาษ)**   | [Lab] | [Sol]  | [Video] | 
+
+| 24th September  | **Midterm Week**   |  |   |  | 
+| 26th September  | **Midterm Week**   |  |   |  | 
+
+| 1st October  | Midterm Discussion   |  |   |  | 
+| 3rd October  | [List 2]   |  |   | [Video] | 
+
 
 
 ## Previous Semester Courses
