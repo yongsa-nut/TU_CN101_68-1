@@ -1,4 +1,4 @@
-# CN101: Introduction to Computer Programming (2567 Second semester)
+# CN101: Introduction to Computer Programming (2568 เทอม 1)
 
 ## Course instruct
 
