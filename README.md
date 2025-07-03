@@ -55,9 +55,22 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 24th September  | **Midterm Week**   |  |   |  | 
 | 26th September  | **Midterm Week**   |  |   |  | 
 | 1st October  | Midterm Discussion   |  |   |  | 
-| 3rd October  | [List 2]   |  |   | [Video] | 
-
-
+| 3rd October  | [List 2]         |        |   | [Video] | 
+| 8th October  | **List 2 Lab**   | [Lab]  | [Sol]   | [Video] |
+| 10th October  | [Function 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |   |   | [Video] | 
+| 15th October | **Function Lab 1**   | [Lab]  | [Sol]  | [Video] |
+| 17th October | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |   |   | [Video] | 
+| 22th October | **Function Lab 2**   | [Lab]  | [Sol]  | [Video] |
+| 24th October | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] | 
+| 29th October | **String Lab**  | [Lab]  | [Sol]  | [Video] |
+| 31th October | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] | 
+| 5th October | **Dictionary Lab**   | [Lab]  | [Sol]  | [Video] |
+| 7th November | Extra            |   |    | [Video] | 
+| 12th November | [Final Recap]   |   |    | [Video] |
+| 14th November | **Final Recap Lab**   | [Lab]  | [Sol]   | [Video] | 
+| 19th November | **Final Prep 1 (บนกระดาษ)**   | [Lab]  | [Sol]   | [Video] |
+| 21th November | **Final Prep 2 (บนกระดาษ)**   | [Lab]  | [Sol]   | [Video] | 
+| xxth November | Final |  |  |  |
 
 ## Previous Semester Courses
 - 66-2: https://github.com/yongsa-nut/TU_CN101_66-2
