@@ -40,7 +40,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | ------- | ------- |  --------  | ----- | -------- |
 | 6th August  | [Introduction](https://docs.google.com/presentation/d/1NTo9DB1zQFDuQVFixkBg8eE9_vTqCC6VBGYCoYS5l0c/edit?usp=sharing) + [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb) |  | | [Video]  | 
 | 8th August  | [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb)   |  |  | [Video] | 
-| 13th August  | **Input/Output/Process Lab 1**  | [Lab] | [Sol]  | [Video] | 
+| 13th August  | **Input/Output/Process Lab 1**  | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Input_Output_Lab_2568.ipynb) | [Sol]  | [Video] | 
 | 15th August  | [Decision Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb)   |   |    | [Video] | 
 | 20th August  | **Decision Structures Lab 1**   | [Lab] | [Sol]  | [Video] | 
 | 22th August  | **Decision Structures Lab 2**   | [Lab] | [Sol]  | [Video] | 
