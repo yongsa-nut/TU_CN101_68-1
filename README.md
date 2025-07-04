@@ -50,8 +50,8 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 5th September  | 	 **Repetition Lab 2**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Repetition_Structure_and_List_Lab_2568.ipynb)  | [Sol]  | [Video] | 
 | 10th September  | [First half Recap]         |       |        | [Video] | 
 | 12th September  | **First Half Recap Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/CN_101First_Half_Recap_2568.ipynb) | [Sol]  | [Video] | 
-| 17th September  | **Midterm Prep 1 (บนกระดาษ)**   | [Lab] | [Sol]  | [Video] | 
-| 19th September  | **Midterm Prep 2 (บนกระดาษ)**   | [Lab] | [Sol]  | [Video] | 
+| 17th September  | **Midterm Prep 1 (บนกระดาษ)**   |  | [Sol]  | [Video] | 
+| 19th September  | **Midterm Prep 2 (บนกระดาษ)**   |  | [Sol]  | [Video] | 
 | 24th September  | Midterm Week   |  |   |  | 
 | 26th September  | Midterm Week   |  |   |  | 
 | 1st October  | Midterm Discussion   |  |   |  | 
@@ -64,12 +64,12 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 24th October | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] | 
 | 29th October | **String Lab**  | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/String_Lab_2568.ipynb)  | [Sol]  | [Video] |
 | 31th October | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] | 
-| 5th October | **Dictionary Lab**   | [Lab]  | [Sol]  | [Video] |
+| 5th October | **Dictionary Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Dictionary_Lab_2568.ipynb)  | [Sol]  | [Video] |
 | 7th November | Extra            |   |    | [Video] | 
 | 12th November | [Final Recap]   |   |    | [Video] |
 | 14th November | **Final Recap Lab**   | [Lab]  | [Sol]   | [Video] | 
-| 19th November | **Final Prep 1 (บนกระดาษ)**   | [Lab]  | [Sol]   | [Video] |
-| 21th November | **Final Prep 2 (บนกระดาษ)**   | [Lab]  | [Sol]   | [Video] | 
+| 19th November | **Final Prep 1 (บนกระดาษ)**   |   | [Sol]   | [Video] |
+| 21th November | **Final Prep 2 (บนกระดาษ)**   |   | [Sol]   | [Video] | 
 | xxth November | Final |  |  |  |
 
 ## Previous Semester Courses
