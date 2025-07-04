@@ -67,7 +67,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 5th October | **Dictionary Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Dictionary_Lab_2568.ipynb)  | [Sol]  | [Video] |
 | 7th November | Extra            |   |    | [Video] | 
 | 12th November | [Final Recap]   |   |    | [Video] |
-| 14th November | **Final Recap Lab**   | [Lab]  | [Sol]   | [Video] | 
+| 14th November | **Final Recap Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Final_Lab_CN101_2568.ipynb)  | [Sol]   | [Video] | 
 | 19th November | **Final Prep 1 (บนกระดาษ)**   |   | [Sol]   | [Video] |
 | 21th November | **Final Prep 2 (บนกระดาษ)**   |   | [Sol]   | [Video] | 
 | xxth November | Final |  |  |  |
