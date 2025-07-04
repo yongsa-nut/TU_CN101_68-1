@@ -38,35 +38,35 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 
 |   Date  |  Topic  |  Lab  |  Solution | Video |
 | ------- | ------- |  --------  | ----- | -------- |
-| 6th August  | [Introduction](https://docs.google.com/presentation/d/1NTo9DB1zQFDuQVFixkBg8eE9_vTqCC6VBGYCoYS5l0c/edit?usp=sharing) + [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb) |  | | [Video]  | 
-| 8th August  | **Input/Output/Process Lab 1**  | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Input_Output_Lab_2568.ipynb) | [Sol]  | [Video] | 
-| 13th August  | [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb)   |  |  | [Video] | 
+| 6th August  | [Introduction](https://docs.google.com/presentation/d/1NTo9DB1zQFDuQVFixkBg8eE9_vTqCC6VBGYCoYS5l0c/edit?usp=sharing) + [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb) |  | | [Video] [Lecture Note] | 
+| 8th August  | **Input/Output/Process Lab 1**  | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Input_Output_Lab_2568.ipynb) | [Sol]  | [Video]  | 
+| 13th August  | [Input/Output/Process](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb)   |  |  | [Video] [Lecture Note]| 
 | 15th August  | **Input/Output + Decision Lab 1**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Decision_Lab_1.ipynb) | [Sol]  | [Video] | 
-| 20th August  | [Decision Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb)   |   |    | [Video] | 
+| 20th August  | [Decision Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb)   |   |    | [Video] [Lecture Note]| 
 | 22th August  | **Decision Structures Lab 2**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Decision_Structure_Lab_2568.ipynb) | [Sol]  | [Video] | 
-| 27th August  |  [Repeition Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_4_Repitition_Structures.ipynb)   |   |  | [Video] | 
+| 27th August  |  [Repeition Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_4_Repitition_Structures.ipynb)   |   |  | [Video] [Lecture Note] | 
 | 29th August  | **Repetition Lab 1**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Repetition_Structures_Lab.ipynb) | [Sol] | [Video] | 
 | 3rd September  | [List 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb) |   |   | [Video] | 
 | 5th September  | 	 **Repetition Lab 2**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Repetition_Structure_and_List_Lab_2568.ipynb)  | [Sol]  | [Video] | 
-| 10th September  | [First half Recap]         |       |        | [Video] | 
+| 10th September  | [First half Recap]         |       |        | [Video] [Lecture Note]| 
 | 12th September  | **First Half Recap Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/CN_101First_Half_Recap_2568.ipynb) | [Sol]  | [Video] | 
 | 17th September  | **Midterm Prep 1 (บนกระดาษ)**   |  | [Sol]  | [Video] | 
 | 19th September  | **Midterm Prep 2 (บนกระดาษ)**   |  | [Sol]  | [Video] | 
 | 24th September  | Midterm Week   |  |   |  | 
 | 26th September  | Midterm Week   |  |   |  | 
 | 1st October  | Midterm Discussion   |  |   |  | 
-| 3rd October  | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)         |        |   | [Video] | 
+| 3rd October  | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)         |        |   | [Video] [Lecture Note] | 
 | 8th October  | **List 2 Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/List_Lab_2568.ipynb)  | [Sol]   | [Video] |
-| 10th October  | [Function 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |   |   | [Video] | 
+| 10th October  | [Function 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |   |   | [Video] [Lecture Note] | 
 | 15th October | **Function Lab 1**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Function_Lab_1_2568.ipynb)  | [Sol]  | [Video] |
-| 17th October | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |   |   | [Video] | 
+| 17th October | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |   |   | [Video] [Lecture Note] | 
 | 22th October | **Function Lab 2**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Function_Lab_2_2568.ipynb)  | [Sol]  | [Video] |
-| 24th October | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] | 
+| 24th October | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] [Lecture Note] | 
 | 29th October | **String Lab**  | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/String_Lab_2568.ipynb)  | [Sol]  | [Video] |
-| 31th October | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] | 
+| 31th October | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] [Lecture Note] | 
 | 5th October | **Dictionary Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Dictionary_Lab_2568.ipynb)  | [Sol]  | [Video] |
 | 7th November | Extra            |   |    | [Video] | 
-| 12th November | [Final Recap]   |   |    | [Video] |
+| 12th November | [Final Recap]   |   |    | [Video] [Lecture Note] |
 | 14th November | **Final Recap Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Final_Lab_CN101_2568.ipynb)  | [Sol]   | [Video] | 
 | 19th November | **Final Prep 1 (บนกระดาษ)**   |   | [Sol]   | [Video] |
 | 21th November | **Final Prep 2 (บนกระดาษ)**   |   | [Sol]   | [Video] | 
