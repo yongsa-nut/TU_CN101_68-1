@@ -62,7 +62,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 17th October | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |   |   | [Video] | 
 | 22th October | **Function Lab 2**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Function_Lab_2_2568.ipynb)  | [Sol]  | [Video] |
 | 24th October | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] | 
-| 29th October | **String Lab**  | [Lab]  | [Sol]  | [Video] |
+| 29th October | **String Lab**  | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/String_Lab_2568.ipynb)  | [Sol]  | [Video] |
 | 31th October | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] | 
 | 5th October | **Dictionary Lab**   | [Lab]  | [Sol]  | [Video] |
 | 7th November | Extra            |   |    | [Video] | 
