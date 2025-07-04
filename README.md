@@ -56,7 +56,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 26th September  | Midterm Week   |  |   |  | 
 | 1st October  | Midterm Discussion   |  |   |  | 
 | 3rd October  | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)         |        |   | [Video] | 
-| 8th October  | **List 2 Lab**   | [Lab]  | [Sol]   | [Video] |
+| 8th October  | **List 2 Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/List_Lab_2568.ipynb)  | [Sol]   | [Video] |
 | 10th October  | [Function 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |   |   | [Video] | 
 | 15th October | **Function Lab 1**   | [Lab]  | [Sol]  | [Video] |
 | 17th October | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |   |   | [Video] | 
