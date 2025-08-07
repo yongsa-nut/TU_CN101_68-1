@@ -63,8 +63,8 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 24th October | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] [Lecture Note] | 
 | 29th October | **String Lab**  | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/String_Lab_2568.ipynb)  | [Sol]  | [Video] |
 | 31th October | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)       |   |   | [Video] [Lecture Note] | 
-| 5th October | **Dictionary Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Dictionary_Lab_2568.ipynb)  | [Sol]  | [Video] |
-| 7th November | Extra            |   |    | [Video] | 
+| 5th November | **Dictionary Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Dictionary_Lab_2568.ipynb)  | [Sol]  | [Video] |
+| 7th November | Extra (Open House)           |   |    | [Video] | 
 | 12th November | [Final Recap]   |   |    | [Video] [Lecture Note] |
 | 14th November | **Final Recap Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Final_Lab_CN101_2568.ipynb)  | [Sol]   | [Video] | 
 | 19th November | **Final Prep 1 (บนกระดาษ)**   |   | [Sol]   | [Video] |
