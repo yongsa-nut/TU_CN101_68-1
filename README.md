@@ -45,7 +45,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 20th August  | [Decision Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb)   |   |    | [Video](https://youtu.be/sKGG-I-3uHQ) [Lecture Note](https://github.com/yongsa-nut/TU_CN101_68-1/blob/main/Decision%20Structures%20lecture%20note.pdf)| 
 | 22th August  | **Decision Structures Lab 2**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Decision_Structure_Lab_2568.ipynb) | [Sol]  | [Video] | 
 | 27th August  |  [Repeition Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_4_Repitition_Structures.ipynb)   |   |  | [Video] [Lecture Note] | 
-| 29th August  | **Repetition Lab 1**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Repetition_Structures_Lab.ipynb) | [Sol] | [Video] [Lecture Note] | 
+| 29th August  | **Repetition Lab 1**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Repetition_Structures_Lab.ipynb) | [Sol] | [Video] | 
 | 3rd September  | [List 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb) |   |   | [Video] | 
 | 5th September  | 	 **Repetition Lab 2**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Repetition_Structure_and_List_Lab_2568.ipynb)  | [Sol]  | [Video] | 
 | 10th September  | [First half Recap]         |       |        | [Video] [Lecture Note]| 
