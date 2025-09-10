@@ -49,7 +49,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 3rd September  | [List 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb) |   |   | [Video](https://youtu.be/MaXlLjs-ubA) [Lecture Note](https://github.com/yongsa-nut/TU_CN101_68-1/blob/main/Repetition%20and%20List.pdf) | 
 | 5th September  | 	 **Repetition Lab 2**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Repetition_Structure_and_List_Lab_2568.ipynb)  | [Sol]  |  | 
 | 10th September  | [First half Recap]         |       |        | [Video](https://youtu.be/ZA6l7rc834c) [Lecture Note](https://github.com/yongsa-nut/TU_CN101_68-1/blob/main/Recap.pdf)| 
-| 12th September  | **First Half Recap Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/CN_101First_Half_Recap_2568.ipynb) | [Sol]  | [Video] | 
+| 12th September  | **First Half Recap Lab**   | [Lab] | [Sol]  | [Video] | 
 | 17th September  | **Midterm Prep 1 (บนกระดาษ)**   |  | [Sol]  | [Video] | 
 | 19th September  | **Midterm Prep 2 (บนกระดาษ)**   |  | [Sol]  | [Video] | 
 | 26th September  | Midterm   |  |   |  | 
