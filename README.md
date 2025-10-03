@@ -54,7 +54,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 19th September  | **Midterm Prep 2 (บนกระดาษ)**   |  |    | [Video](https://youtu.be/OXlIFTEidys) | 
 | 26th September  | Midterm   |  |   |  | 
 | 1st October  | Midterm Discussion   |  |   |  | 
-| 3rd October  | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)         |        |   | [Video](https://youtu.be/0xCrcq-uZyU) [Lecture Note](https://github.com/yongsa-nut/TU_CN101_68-1/blob/main/List%202%20lecture%20note.pdf) | 
+| 3rd October  | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)         |        |   | [Video](https://youtu.be/42R3DX_gWWA) [Lecture Note](https://github.com/yongsa-nut/TU_CN101_68-1/blob/main/List%202%20lecture%20note.pdf) | 
 | 8th October  | **List 2 Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/List_Lab_2568.ipynb)  | [Sol]   |  |
 | 10th October  | [Function 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |   |   | [Video] [Lecture Note] | 
 | 15th October | **Function Lab 1**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Function_Lab_1_2568.ipynb)  | [Sol]  | [Video] |
