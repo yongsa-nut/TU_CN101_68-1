@@ -68,7 +68,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 12th November | [Final Recap]   |   |    | [Video](https://youtu.be/X0o3CY5D2hM) [Lecture Note](https://github.com/yongsa-nut/TU_CN101_68-1/blob/main/Final%20Recap.pdf) |
 | 14th November | **Final Recap Lab**   | [Lab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Final_Recap_Lab_CN101_2568.ipynb)  | [Sol](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Final_Recap_Lab_CN101_2568_(sol).ipynb)   | [Video](https://youtu.be/3qqwKEo00gY) | 
 | 19th November | **Final Prep 1 (บนกระดาษ)**   |   |   | [Video](https://youtu.be/4C7RcvBPH9M) |
-| 21th November | **Final Prep 2 (บนกระดาษ)**   |   |   | [Video] | 
+| 21th November | **Final Prep 2 (บนกระดาษ)**   |   |   | [Video](https://youtu.be/7P7EfdXYMqE) | 
 | 27th November | Final (13:00-16:00) |  |  |  |
 
 ## Previous Semester Courses
